@@ -19,6 +19,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 and place it your working directory, where you place the run_analysis.R file.
 
+This script requires library "plyr", please install the package with the following command:
+install.packages("plyr") 
+
 Using the R console
 
 Type setwd(‘<directory where you place the run_analysis.R file>’). 
