@@ -6,6 +6,10 @@
 ## 5. From the data set in step 4, creates a second, independent tidy data set 
 ##    with the average of each variable for each activity and each subject.
 
+## This script require plyr package
+##install this package if you haven't done so
+##install.packages("plyr") 
+
 
 ## If you choose not to download the data file, please comment out the section
 ## Download the file
